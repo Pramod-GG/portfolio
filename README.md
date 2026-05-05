@@ -29,3 +29,33 @@ A responsive and modern personal portfolio website to showcase my projects, skil
 ---
 
 ## 📂 Project Structure
+-portfolio
+- index.html
+- style.css  
+- script.js
+- images  
+
+
+---
+
+## 📬 Contact
+
+If you’d like to connect:
+
+- 📧 Email: pramodggkalasa8338@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pramod-g-g-b59972262  
+- 🐙 GitHub: https://github.com/Pramod-GG  
+
+---
+
+## 💡 Future Improvements
+
+- Add backend integration (Spring Boot)
+- Add blog section
+- Improve animations and UI interactions
+
+---
+
+## ⭐ Acknowledgment
+
+This project was developed as part of my Java Full Stack Internship.
