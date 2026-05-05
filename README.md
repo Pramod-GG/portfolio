@@ -58,4 +58,4 @@ If you’d like to connect:
 
 ## ⭐ Acknowledgment
 
-This project was developed as part of my Java Full Stack Internship.
+This project was developed as part of my Java Full-Stack Development Internship.
