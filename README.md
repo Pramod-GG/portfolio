@@ -3,7 +3,7 @@
 A responsive and modern personal portfolio website to showcase my projects, skills, experience, and achievements.
 
 ## 🔗 Live Demo
-👉 https://yourusername.github.io/portfolio/
+👉 https://pramod-gg.github.io/portfolio/
 
 ---
 
